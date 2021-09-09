@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @isabel heo
+- 🌱 I’m currently learning language C and algorithm
